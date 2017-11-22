@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#inclide <string.h>
+#include <string.h>
 #include <stdio.h>
 #include "win2koi.c"
 #include "koi2win.c"
